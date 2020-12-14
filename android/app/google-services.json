@@ -1,0 +1,595 @@
+{
+  "project_info": {
+    "project_number": "333850031189",
+    "firebase_url": "https://solutechrms.firebaseio.com",
+    "project_id": "solutechrms",
+    "storage_bucket": "solutechrms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:c1b635a404de399a",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:14997ad94c443b54",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-tj2a15o580cc663kkngiferfvac1k2a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutech.sat.app",
+            "certificate_hash": "b29b73bcee8466898963b24b892958d069eb4995"
+          }
+        },
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:ca359d48290eb0ce",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.capwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:336452f946a1c501",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.capwelladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:09b03bf6d3905e8d",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.dil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:ab50814529cfc2f8",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.diladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:18dc45f91ddb072d",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.ftba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:65c33bd80c032ddf",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.hasbahadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:82326a5416ed6f4f",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.hasbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:80d7b2c8605c2739",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.ki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:36d8e773fd0e0724",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.kiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:3df589dace90d1ae",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.millers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:a5d7f483360fc849",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.pwani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:f8c7f21e7f7f78ef",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.pwaniadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:3e1226c6929000ac",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.solutech_sat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333850031189:android:0cae46f293909808",
+        "android_client_info": {
+          "package_name": "com.solutech.sat.unitedadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1yGsxZfezRA0Tu0TsHGWYYYBAeM9LXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333850031189-se17sjb5dv9kqs4eq4hsr3bnaarue4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333850031189-dpiipc62t1ngi8c3greibmoumaveue50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutech.sat.solutechSat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
